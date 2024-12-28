@@ -48,6 +48,7 @@ main #search-form button {
     padding: 0rem 1rem;
     height: 32px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 main #tempo-info {
